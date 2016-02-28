@@ -1,0 +1,23 @@
+_repo: Domestic-Pleasures-or-the-Happy-Fire-side_7830
+creator:
+  author:
+    agent_name: Vaux, Frances Bowyer
+    birthdate: 1785
+    deathdate: 1854
+    gutenberg_agent_id: '2548'
+    url: http://www.gutenberg.org/2009/agents/2548
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life'
+title: Domestic Pleasures, or, the Happy Fire-side
+url: http://www.gutenberg.org/ebooks/7830
